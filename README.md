@@ -1,12 +1,15 @@
 # One Word, First Thought
 
-[![u-0xkianno-one-word-first-thought-106abaf8](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8)
-[![rank](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/quintana111/u-0xkianno-first-thought/rank.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8)
-[![reward](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/quintana111/u-0xkianno-first-thought/reward.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8)
+[![make.fun · u-0xkianno-one-word-first-thought-106abaf8](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
+[![rank](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/quintana111/u-0xkianno-one-word-first-thought-106abaf8/rank.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
+[![reward](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/quintana111/u-0xkianno-one-word-first-thought-106abaf8/reward.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
 
-One word, first thought — nothing else. The entry is **murmuration**: a
-whole sky of starlings wheeling as one shape, here and gone. Vivid,
-unexpected, and a little witty — a single word that paints a moving picture.
+[View the bounty on make.fun](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8)
+
+One word, first thought — nothing else. This entry answers with
+**murmuration**: a whole sky of starlings wheeling as one shape, here and
+gone. It's vivid, unexpected, and a little witty — a single word that paints
+a moving picture.
 
 ## Run
 
@@ -14,5 +17,5 @@ unexpected, and a little witty — a single word that paints a moving picture.
 node main.ts
 ```
 
-Writes exactly `murmuration` (11 bytes, no trailing newline) to
-`/output/entry.txt`, or to `$ENTRY_OUTPUT_PATH` when set.
+It writes exactly `murmuration` (11 bytes, no trailing newline) to
+`/output/entry.txt`, or to `$ENTRY_OUTPUT_PATH` when that is set.
